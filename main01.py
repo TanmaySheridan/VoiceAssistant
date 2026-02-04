@@ -60,4 +60,5 @@ if __name__ == '__main__':
             webbrowser.open(path)
         if "Chrome" in query:
             path = "C:\\Program Files\\Google\\Chrome\\Application"
+
             os.startfile(path)
